@@ -1,0 +1,596 @@
+cve_id,cvss_version,reason,detail
+CVE-2004-0230,2.0,history_has_no_nvd_score_event,güncel NVD Primary metriği var ama change history'de bu sürüm için NVD CVSS olayı yok; ilk skor belirlenemiyor
+CVE-2004-0467,2.0,history_has_no_nvd_score_event,güncel NVD Primary metriği var ama change history'de bu sürüm için NVD CVSS olayı yok; ilk skor belirlenemiyor
+CVE-2004-0468,2.0,history_has_no_nvd_score_event,güncel NVD Primary metriği var ama change history'de bu sürüm için NVD CVSS olayı yok; ilk skor belirlenemiyor
+CVE-2005-2531,2.0,history_has_no_nvd_score_event,güncel NVD Primary metriği var ama change history'de bu sürüm için NVD CVSS olayı yok; ilk skor belirlenemiyor
+CVE-2005-2532,2.0,history_has_no_nvd_score_event,güncel NVD Primary metriği var ama change history'de bu sürüm için NVD CVSS olayı yok; ilk skor belirlenemiyor
+CVE-2005-2533,2.0,history_has_no_nvd_score_event,güncel NVD Primary metriği var ama change history'de bu sürüm için NVD CVSS olayı yok; ilk skor belirlenemiyor
+CVE-2005-2534,2.0,history_has_no_nvd_score_event,güncel NVD Primary metriği var ama change history'de bu sürüm için NVD CVSS olayı yok; ilk skor belirlenemiyor
+CVE-2005-3393,2.0,history_has_no_nvd_score_event,güncel NVD Primary metriği var ama change history'de bu sürüm için NVD CVSS olayı yok; ilk skor belirlenemiyor
+CVE-2005-3409,2.0,history_has_no_nvd_score_event,güncel NVD Primary metriği var ama change history'de bu sürüm için NVD CVSS olayı yok; ilk skor belirlenemiyor
+CVE-2005-3669,2.0,history_has_no_nvd_score_event,güncel NVD Primary metriği var ama change history'de bu sürüm için NVD CVSS olayı yok; ilk skor belirlenemiyor
+CVE-2005-3788,2.0,history_has_no_nvd_score_event,güncel NVD Primary metriği var ama change history'de bu sürüm için NVD CVSS olayı yok; ilk skor belirlenemiyor
+CVE-2005-4499,2.0,history_has_no_nvd_score_event,güncel NVD Primary metriği var ama change history'de bu sürüm için NVD CVSS olayı yok; ilk skor belirlenemiyor
+CVE-2006-0515,2.0,history_has_no_nvd_score_event,güncel NVD Primary metriği var ama change history'de bu sürüm için NVD CVSS olayı yok; ilk skor belirlenemiyor
+CVE-2006-1629,2.0,history_has_no_nvd_score_event,güncel NVD Primary metriği var ama change history'de bu sürüm için NVD CVSS olayı yok; ilk skor belirlenemiyor
+CVE-2006-2229,2.0,history_has_no_nvd_score_event,güncel NVD Primary metriği var ama change history'de bu sürüm için NVD CVSS olayı yok; ilk skor belirlenemiyor
+CVE-2006-3529,2.0,history_has_no_nvd_score_event,güncel NVD Primary metriği var ama change history'de bu sürüm için NVD CVSS olayı yok; ilk skor belirlenemiyor
+CVE-2006-3906,2.0,history_has_no_nvd_score_event,güncel NVD Primary metriği var ama change history'de bu sürüm için NVD CVSS olayı yok; ilk skor belirlenemiyor
+CVE-2007-2461,2.0,history_has_no_nvd_score_event,güncel NVD Primary metriği var ama change history'de bu sürüm için NVD CVSS olayı yok; ilk skor belirlenemiyor
+CVE-2007-2462,2.0,history_has_no_nvd_score_event,güncel NVD Primary metriği var ama change history'de bu sürüm için NVD CVSS olayı yok; ilk skor belirlenemiyor
+CVE-2007-2463,2.0,history_has_no_nvd_score_event,güncel NVD Primary metriği var ama change history'de bu sürüm için NVD CVSS olayı yok; ilk skor belirlenemiyor
+CVE-2007-2464,2.0,history_has_no_nvd_score_event,güncel NVD Primary metriği var ama change history'de bu sürüm için NVD CVSS olayı yok; ilk skor belirlenemiyor
+CVE-2007-4786,2.0,history_has_no_nvd_score_event,güncel NVD Primary metriği var ama change history'de bu sürüm için NVD CVSS olayı yok; ilk skor belirlenemiyor
+CVE-2007-5568,2.0,history_has_no_nvd_score_event,güncel NVD Primary metriği var ama change history'de bu sürüm için NVD CVSS olayı yok; ilk skor belirlenemiyor
+CVE-2007-5569,2.0,history_has_no_nvd_score_event,güncel NVD Primary metriği var ama change history'de bu sürüm için NVD CVSS olayı yok; ilk skor belirlenemiyor
+CVE-2007-6372,2.0,history_has_no_nvd_score_event,güncel NVD Primary metriği var ama change history'de bu sürüm için NVD CVSS olayı yok; ilk skor belirlenemiyor
+CVE-2008-0028,2.0,history_has_no_nvd_score_event,güncel NVD Primary metriği var ama change history'de bu sürüm için NVD CVSS olayı yok; ilk skor belirlenemiyor
+CVE-2008-2055,2.0,history_has_no_nvd_score_event,güncel NVD Primary metriği var ama change history'de bu sürüm için NVD CVSS olayı yok; ilk skor belirlenemiyor
+CVE-2008-2056,2.0,history_has_no_nvd_score_event,güncel NVD Primary metriği var ama change history'de bu sürüm için NVD CVSS olayı yok; ilk skor belirlenemiyor
+CVE-2008-2057,2.0,history_has_no_nvd_score_event,güncel NVD Primary metriği var ama change history'de bu sürüm için NVD CVSS olayı yok; ilk skor belirlenemiyor
+CVE-2008-2058,2.0,history_has_no_nvd_score_event,güncel NVD Primary metriği var ama change history'de bu sürüm için NVD CVSS olayı yok; ilk skor belirlenemiyor
+CVE-2008-2059,2.0,history_has_no_nvd_score_event,güncel NVD Primary metriği var ama change history'de bu sürüm için NVD CVSS olayı yok; ilk skor belirlenemiyor
+CVE-2008-3459,2.0,history_has_no_nvd_score_event,güncel NVD Primary metriği var ama change history'de bu sürüm için NVD CVSS olayı yok; ilk skor belirlenemiyor
+CVE-2009-3485,2.0,history_has_no_nvd_score_event,güncel NVD Primary metriği var ama change history'de bu sürüm için NVD CVSS olayı yok; ilk skor belirlenemiyor
+CVE-2009-3486,2.0,history_has_no_nvd_score_event,güncel NVD Primary metriği var ama change history'de bu sürüm için NVD CVSS olayı yok; ilk skor belirlenemiyor
+CVE-2009-3487,2.0,history_has_no_nvd_score_event,güncel NVD Primary metriği var ama change history'de bu sürüm için NVD CVSS olayı yok; ilk skor belirlenemiyor
+CVE-2009-5037,2.0,history_has_no_nvd_score_event,güncel NVD Primary metriği var ama change history'de bu sürüm için NVD CVSS olayı yok; ilk skor belirlenemiyor
+CVE-2010-0440,2.0,history_has_no_nvd_score_event,güncel NVD Primary metriği var ama change history'de bu sürüm için NVD CVSS olayı yok; ilk skor belirlenemiyor
+CVE-2010-1578,2.0,history_has_no_nvd_score_event,güncel NVD Primary metriği var ama change history'de bu sürüm için NVD CVSS olayı yok; ilk skor belirlenemiyor
+CVE-2010-1579,2.0,history_has_no_nvd_score_event,güncel NVD Primary metriği var ama change history'de bu sürüm için NVD CVSS olayı yok; ilk skor belirlenemiyor
+CVE-2010-1580,2.0,history_has_no_nvd_score_event,güncel NVD Primary metriği var ama change history'de bu sürüm için NVD CVSS olayı yok; ilk skor belirlenemiyor
+CVE-2010-1581,2.0,history_has_no_nvd_score_event,güncel NVD Primary metriği var ama change history'de bu sürüm için NVD CVSS olayı yok; ilk skor belirlenemiyor
+CVE-2010-2814,2.0,history_has_no_nvd_score_event,güncel NVD Primary metriği var ama change history'de bu sürüm için NVD CVSS olayı yok; ilk skor belirlenemiyor
+CVE-2010-2815,2.0,history_has_no_nvd_score_event,güncel NVD Primary metriği var ama change history'de bu sürüm için NVD CVSS olayı yok; ilk skor belirlenemiyor
+CVE-2010-2816,2.0,history_has_no_nvd_score_event,güncel NVD Primary metriği var ama change history'de bu sürüm için NVD CVSS olayı yok; ilk skor belirlenemiyor
+CVE-2010-2817,2.0,history_has_no_nvd_score_event,güncel NVD Primary metriği var ama change history'de bu sürüm için NVD CVSS olayı yok; ilk skor belirlenemiyor
+CVE-2010-4670,2.0,history_has_no_nvd_score_event,güncel NVD Primary metriği var ama change history'de bu sürüm için NVD CVSS olayı yok; ilk skor belirlenemiyor
+CVE-2010-4672,2.0,history_has_no_nvd_score_event,güncel NVD Primary metriği var ama change history'de bu sürüm için NVD CVSS olayı yok; ilk skor belirlenemiyor
+CVE-2010-4673,2.0,history_has_no_nvd_score_event,güncel NVD Primary metriği var ama change history'de bu sürüm için NVD CVSS olayı yok; ilk skor belirlenemiyor
+CVE-2010-4674,2.0,history_has_no_nvd_score_event,güncel NVD Primary metriği var ama change history'de bu sürüm için NVD CVSS olayı yok; ilk skor belirlenemiyor
+CVE-2010-4675,2.0,history_has_no_nvd_score_event,güncel NVD Primary metriği var ama change history'de bu sürüm için NVD CVSS olayı yok; ilk skor belirlenemiyor
+CVE-2010-4676,2.0,history_has_no_nvd_score_event,güncel NVD Primary metriği var ama change history'de bu sürüm için NVD CVSS olayı yok; ilk skor belirlenemiyor
+CVE-2010-4677,2.0,history_has_no_nvd_score_event,güncel NVD Primary metriği var ama change history'de bu sürüm için NVD CVSS olayı yok; ilk skor belirlenemiyor
+CVE-2010-4678,2.0,history_has_no_nvd_score_event,güncel NVD Primary metriği var ama change history'de bu sürüm için NVD CVSS olayı yok; ilk skor belirlenemiyor
+CVE-2010-4679,2.0,history_has_no_nvd_score_event,güncel NVD Primary metriği var ama change history'de bu sürüm için NVD CVSS olayı yok; ilk skor belirlenemiyor
+CVE-2010-4680,2.0,history_has_no_nvd_score_event,güncel NVD Primary metriği var ama change history'de bu sürüm için NVD CVSS olayı yok; ilk skor belirlenemiyor
+CVE-2010-4681,2.0,history_has_no_nvd_score_event,güncel NVD Primary metriği var ama change history'de bu sürüm için NVD CVSS olayı yok; ilk skor belirlenemiyor
+CVE-2010-4682,2.0,history_has_no_nvd_score_event,güncel NVD Primary metriği var ama change history'de bu sürüm için NVD CVSS olayı yok; ilk skor belirlenemiyor
+CVE-2010-4688,2.0,history_has_no_nvd_score_event,güncel NVD Primary metriği var ama change history'de bu sürüm için NVD CVSS olayı yok; ilk skor belirlenemiyor
+CVE-2010-4689,2.0,history_has_no_nvd_score_event,güncel NVD Primary metriği var ama change history'de bu sürüm için NVD CVSS olayı yok; ilk skor belirlenemiyor
+CVE-2010-4690,2.0,history_has_no_nvd_score_event,güncel NVD Primary metriği var ama change history'de bu sürüm için NVD CVSS olayı yok; ilk skor belirlenemiyor
+CVE-2010-4691,2.0,history_has_no_nvd_score_event,güncel NVD Primary metriği var ama change history'de bu sürüm için NVD CVSS olayı yok; ilk skor belirlenemiyor
+CVE-2010-4692,2.0,history_has_no_nvd_score_event,güncel NVD Primary metriği var ama change history'de bu sürüm için NVD CVSS olayı yok; ilk skor belirlenemiyor
+CVE-2011-0393,2.0,history_has_no_nvd_score_event,güncel NVD Primary metriği var ama change history'de bu sürüm için NVD CVSS olayı yok; ilk skor belirlenemiyor
+CVE-2011-0394,2.0,history_has_no_nvd_score_event,güncel NVD Primary metriği var ama change history'de bu sürüm için NVD CVSS olayı yok; ilk skor belirlenemiyor
+CVE-2011-0395,2.0,history_has_no_nvd_score_event,güncel NVD Primary metriği var ama change history'de bu sürüm için NVD CVSS olayı yok; ilk skor belirlenemiyor
+CVE-2011-0396,2.0,history_has_no_nvd_score_event,güncel NVD Primary metriği var ama change history'de bu sürüm için NVD CVSS olayı yok; ilk skor belirlenemiyor
+CVE-2011-2060,2.0,history_has_no_nvd_score_event,güncel NVD Primary metriği var ama change history'de bu sürüm için NVD CVSS olayı yok; ilk skor belirlenemiyor
+CVE-2011-3285,2.0,history_has_no_nvd_score_event,güncel NVD Primary metriği var ama change history'de bu sürüm için NVD CVSS olayı yok; ilk skor belirlenemiyor
+CVE-2011-3298,2.0,history_has_no_nvd_score_event,güncel NVD Primary metriği var ama change history'de bu sürüm için NVD CVSS olayı yok; ilk skor belirlenemiyor
+CVE-2011-3299,2.0,history_has_no_nvd_score_event,güncel NVD Primary metriği var ama change history'de bu sürüm için NVD CVSS olayı yok; ilk skor belirlenemiyor
+CVE-2011-3300,2.0,history_has_no_nvd_score_event,güncel NVD Primary metriği var ama change history'de bu sürüm için NVD CVSS olayı yok; ilk skor belirlenemiyor
+CVE-2011-3301,2.0,history_has_no_nvd_score_event,güncel NVD Primary metriği var ama change history'de bu sürüm için NVD CVSS olayı yok; ilk skor belirlenemiyor
+CVE-2011-3302,2.0,history_has_no_nvd_score_event,güncel NVD Primary metriği var ama change history'de bu sürüm için NVD CVSS olayı yok; ilk skor belirlenemiyor
+CVE-2011-3303,2.0,history_has_no_nvd_score_event,güncel NVD Primary metriği var ama change history'de bu sürüm için NVD CVSS olayı yok; ilk skor belirlenemiyor
+CVE-2011-3304,2.0,history_has_no_nvd_score_event,güncel NVD Primary metriği var ama change history'de bu sürüm için NVD CVSS olayı yok; ilk skor belirlenemiyor
+CVE-2011-3309,2.0,history_has_no_nvd_score_event,güncel NVD Primary metriği var ama change history'de bu sürüm için NVD CVSS olayı yok; ilk skor belirlenemiyor
+CVE-2011-4006,2.0,history_has_no_nvd_score_event,güncel NVD Primary metriği var ama change history'de bu sürüm için NVD CVSS olayı yok; ilk skor belirlenemiyor
+CVE-2012-0335,2.0,history_has_no_nvd_score_event,güncel NVD Primary metriği var ama change history'de bu sürüm için NVD CVSS olayı yok; ilk skor belirlenemiyor
+CVE-2012-0353,2.0,history_has_no_nvd_score_event,güncel NVD Primary metriği var ama change history'de bu sürüm için NVD CVSS olayı yok; ilk skor belirlenemiyor
+CVE-2012-0354,2.0,history_has_no_nvd_score_event,güncel NVD Primary metriği var ama change history'de bu sürüm için NVD CVSS olayı yok; ilk skor belirlenemiyor
+CVE-2012-0355,2.0,history_has_no_nvd_score_event,güncel NVD Primary metriği var ama change history'de bu sürüm için NVD CVSS olayı yok; ilk skor belirlenemiyor
+CVE-2012-0356,2.0,history_has_no_nvd_score_event,güncel NVD Primary metriği var ama change history'de bu sürüm için NVD CVSS olayı yok; ilk skor belirlenemiyor
+CVE-2012-0358,2.0,history_has_no_nvd_score_event,güncel NVD Primary metriği var ama change history'de bu sürüm için NVD CVSS olayı yok; ilk skor belirlenemiyor
+CVE-2012-0378,2.0,history_has_no_nvd_score_event,güncel NVD Primary metriği var ama change history'de bu sürüm için NVD CVSS olayı yok; ilk skor belirlenemiyor
+CVE-2012-1366,2.0,history_has_no_nvd_score_event,güncel NVD Primary metriği var ama change history'de bu sürüm için NVD CVSS olayı yok; ilk skor belirlenemiyor
+CVE-2012-2472,2.0,history_has_no_nvd_score_event,güncel NVD Primary metriği var ama change history'de bu sürüm için NVD CVSS olayı yok; ilk skor belirlenemiyor
+CVE-2012-2474,2.0,history_has_no_nvd_score_event,güncel NVD Primary metriği var ama change history'de bu sürüm için NVD CVSS olayı yok; ilk skor belirlenemiyor
+CVE-2012-3040,2.0,history_has_no_nvd_score_event,güncel NVD Primary metriği var ama change history'de bu sürüm için NVD CVSS olayı yok; ilk skor belirlenemiyor
+CVE-2012-3058,2.0,history_has_no_nvd_score_event,güncel NVD Primary metriği var ama change history'de bu sürüm için NVD CVSS olayı yok; ilk skor belirlenemiyor
+CVE-2012-4643,2.0,history_has_no_nvd_score_event,güncel NVD Primary metriği var ama change history'de bu sürüm için NVD CVSS olayı yok; ilk skor belirlenemiyor
+CVE-2012-4659,2.0,history_has_no_nvd_score_event,güncel NVD Primary metriği var ama change history'de bu sürüm için NVD CVSS olayı yok; ilk skor belirlenemiyor
+CVE-2012-4660,2.0,history_has_no_nvd_score_event,güncel NVD Primary metriği var ama change history'de bu sürüm için NVD CVSS olayı yok; ilk skor belirlenemiyor
+CVE-2012-4661,2.0,history_has_no_nvd_score_event,güncel NVD Primary metriği var ama change history'de bu sürüm için NVD CVSS olayı yok; ilk skor belirlenemiyor
+CVE-2012-4662,2.0,history_has_no_nvd_score_event,güncel NVD Primary metriği var ama change history'de bu sürüm için NVD CVSS olayı yok; ilk skor belirlenemiyor
+CVE-2012-4663,2.0,history_has_no_nvd_score_event,güncel NVD Primary metriği var ama change history'de bu sürüm için NVD CVSS olayı yok; ilk skor belirlenemiyor
+CVE-2012-5017,2.0,history_has_no_nvd_score_event,güncel NVD Primary metriği var ama change history'de bu sürüm için NVD CVSS olayı yok; ilk skor belirlenemiyor
+CVE-2012-5419,2.0,history_has_no_nvd_score_event,güncel NVD Primary metriği var ama change history'de bu sürüm için NVD CVSS olayı yok; ilk skor belirlenemiyor
+CVE-2012-5717,2.0,history_has_no_nvd_score_event,güncel NVD Primary metriği var ama change history'de bu sürüm için NVD CVSS olayı yok; ilk skor belirlenemiyor
+CVE-2012-5723,2.0,history_has_no_nvd_score_event,güncel NVD Primary metriği var ama change history'de bu sürüm için NVD CVSS olayı yok; ilk skor belirlenemiyor
+CVE-2012-6395,2.0,history_has_no_nvd_score_event,güncel NVD Primary metriği var ama change history'de bu sürüm için NVD CVSS olayı yok; ilk skor belirlenemiyor
+CVE-2013-0657,2.0,history_has_no_nvd_score_event,güncel NVD Primary metriği var ama change history'de bu sürüm için NVD CVSS olayı yok; ilk skor belirlenemiyor
+CVE-2013-0700,2.0,history_has_no_nvd_score_event,güncel NVD Primary metriği var ama change history'de bu sürüm için NVD CVSS olayı yok; ilk skor belirlenemiyor
+CVE-2013-1138,2.0,history_has_no_nvd_score_event,güncel NVD Primary metriği var ama change history'de bu sürüm için NVD CVSS olayı yok; ilk skor belirlenemiyor
+CVE-2013-1149,2.0,history_has_no_nvd_score_event,güncel NVD Primary metriği var ama change history'de bu sürüm için NVD CVSS olayı yok; ilk skor belirlenemiyor
+CVE-2013-1150,2.0,history_has_no_nvd_score_event,güncel NVD Primary metriği var ama change history'de bu sürüm için NVD CVSS olayı yok; ilk skor belirlenemiyor
+CVE-2013-1151,2.0,history_has_no_nvd_score_event,güncel NVD Primary metriği var ama change history'de bu sürüm için NVD CVSS olayı yok; ilk skor belirlenemiyor
+CVE-2013-1152,2.0,history_has_no_nvd_score_event,güncel NVD Primary metriği var ama change history'de bu sürüm için NVD CVSS olayı yok; ilk skor belirlenemiyor
+CVE-2013-1164,2.0,history_has_no_nvd_score_event,güncel NVD Primary metriği var ama change history'de bu sürüm için NVD CVSS olayı yok; ilk skor belirlenemiyor
+CVE-2013-1165,2.0,history_has_no_nvd_score_event,güncel NVD Primary metriği var ama change history'de bu sürüm için NVD CVSS olayı yok; ilk skor belirlenemiyor
+CVE-2013-1166,2.0,history_has_no_nvd_score_event,güncel NVD Primary metriği var ama change history'de bu sürüm için NVD CVSS olayı yok; ilk skor belirlenemiyor
+CVE-2013-1167,2.0,history_has_no_nvd_score_event,güncel NVD Primary metriği var ama change history'de bu sürüm için NVD CVSS olayı yok; ilk skor belirlenemiyor
+CVE-2013-1193,2.0,history_has_no_nvd_score_event,güncel NVD Primary metriği var ama change history'de bu sürüm için NVD CVSS olayı yok; ilk skor belirlenemiyor
+CVE-2013-1194,2.0,history_has_no_nvd_score_event,güncel NVD Primary metriği var ama change history'de bu sürüm için NVD CVSS olayı yok; ilk skor belirlenemiyor
+CVE-2013-1195,2.0,history_has_no_nvd_score_event,güncel NVD Primary metriği var ama change history'de bu sürüm için NVD CVSS olayı yok; ilk skor belirlenemiyor
+CVE-2013-1199,2.0,history_has_no_nvd_score_event,güncel NVD Primary metriği var ama change history'de bu sürüm için NVD CVSS olayı yok; ilk skor belirlenemiyor
+CVE-2013-1215,2.0,history_has_no_nvd_score_event,güncel NVD Primary metriği var ama change history'de bu sürüm için NVD CVSS olayı yok; ilk skor belirlenemiyor
+CVE-2013-2061,2.0,history_has_no_nvd_score_event,güncel NVD Primary metriği var ama change history'de bu sürüm için NVD CVSS olayı yok; ilk skor belirlenemiyor
+CVE-2013-2779,2.0,history_has_no_nvd_score_event,güncel NVD Primary metriği var ama change history'de bu sürüm için NVD CVSS olayı yok; ilk skor belirlenemiyor
+CVE-2013-2780,2.0,history_has_no_nvd_score_event,güncel NVD Primary metriği var ama change history'de bu sürüm için NVD CVSS olayı yok; ilk skor belirlenemiyor
+CVE-2013-3414,2.0,history_has_no_nvd_score_event,güncel NVD Primary metriği var ama change history'de bu sürüm için NVD CVSS olayı yok; ilk skor belirlenemiyor
+CVE-2013-3415,2.0,history_has_no_nvd_score_event,güncel NVD Primary metriği var ama change history'de bu sürüm için NVD CVSS olayı yok; ilk skor belirlenemiyor
+CVE-2013-3458,2.0,history_has_no_nvd_score_event,güncel NVD Primary metriği var ama change history'de bu sürüm için NVD CVSS olayı yok; ilk skor belirlenemiyor
+CVE-2013-3463,2.0,history_has_no_nvd_score_event,güncel NVD Primary metriği var ama change history'de bu sürüm için NVD CVSS olayı yok; ilk skor belirlenemiyor
+CVE-2013-4684,2.0,history_has_no_nvd_score_event,güncel NVD Primary metriği var ama change history'de bu sürüm için NVD CVSS olayı yok; ilk skor belirlenemiyor
+CVE-2013-4685,2.0,history_has_no_nvd_score_event,güncel NVD Primary metriği var ama change history'de bu sürüm için NVD CVSS olayı yok; ilk skor belirlenemiyor
+CVE-2013-4686,2.0,history_has_no_nvd_score_event,güncel NVD Primary metriği var ama change history'de bu sürüm için NVD CVSS olayı yok; ilk skor belirlenemiyor
+CVE-2013-4687,2.0,history_has_no_nvd_score_event,güncel NVD Primary metriği var ama change history'de bu sürüm için NVD CVSS olayı yok; ilk skor belirlenemiyor
+CVE-2013-4688,2.0,history_has_no_nvd_score_event,güncel NVD Primary metriği var ama change history'de bu sürüm için NVD CVSS olayı yok; ilk skor belirlenemiyor
+CVE-2013-4689,2.0,history_has_no_nvd_score_event,güncel NVD Primary metriği var ama change history'de bu sürüm için NVD CVSS olayı yok; ilk skor belirlenemiyor
+CVE-2013-4690,2.0,history_has_no_nvd_score_event,güncel NVD Primary metriği var ama change history'de bu sürüm için NVD CVSS olayı yok; ilk skor belirlenemiyor
+CVE-2013-5507,2.0,history_has_no_nvd_score_event,güncel NVD Primary metriği var ama change history'de bu sürüm için NVD CVSS olayı yok; ilk skor belirlenemiyor
+CVE-2013-5508,2.0,history_has_no_nvd_score_event,güncel NVD Primary metriği var ama change history'de bu sürüm için NVD CVSS olayı yok; ilk skor belirlenemiyor
+CVE-2013-5509,2.0,history_has_no_nvd_score_event,güncel NVD Primary metriği var ama change history'de bu sürüm için NVD CVSS olayı yok; ilk skor belirlenemiyor
+CVE-2013-5510,2.0,history_has_no_nvd_score_event,güncel NVD Primary metriği var ama change history'de bu sürüm için NVD CVSS olayı yok; ilk skor belirlenemiyor
+CVE-2013-5511,2.0,history_has_no_nvd_score_event,güncel NVD Primary metriği var ama change history'de bu sürüm için NVD CVSS olayı yok; ilk skor belirlenemiyor
+CVE-2013-5512,2.0,history_has_no_nvd_score_event,güncel NVD Primary metriği var ama change history'de bu sürüm için NVD CVSS olayı yok; ilk skor belirlenemiyor
+CVE-2013-5513,2.0,history_has_no_nvd_score_event,güncel NVD Primary metriği var ama change history'de bu sürüm için NVD CVSS olayı yok; ilk skor belirlenemiyor
+CVE-2013-5515,2.0,history_has_no_nvd_score_event,güncel NVD Primary metriği var ama change history'de bu sürüm için NVD CVSS olayı yok; ilk skor belirlenemiyor
+CVE-2013-5542,2.0,history_has_no_nvd_score_event,güncel NVD Primary metriği var ama change history'de bu sürüm için NVD CVSS olayı yok; ilk skor belirlenemiyor
+CVE-2013-5543,2.0,history_has_no_nvd_score_event,güncel NVD Primary metriği var ama change history'de bu sürüm için NVD CVSS olayı yok; ilk skor belirlenemiyor
+CVE-2013-5544,2.0,history_has_no_nvd_score_event,güncel NVD Primary metriği var ama change history'de bu sürüm için NVD CVSS olayı yok; ilk skor belirlenemiyor
+CVE-2013-5545,2.0,history_has_no_nvd_score_event,güncel NVD Primary metriği var ama change history'de bu sürüm için NVD CVSS olayı yok; ilk skor belirlenemiyor
+CVE-2013-5546,2.0,history_has_no_nvd_score_event,güncel NVD Primary metriği var ama change history'de bu sürüm için NVD CVSS olayı yok; ilk skor belirlenemiyor
+CVE-2013-5547,2.0,history_has_no_nvd_score_event,güncel NVD Primary metriği var ama change history'de bu sürüm için NVD CVSS olayı yok; ilk skor belirlenemiyor
+CVE-2013-5551,2.0,history_has_no_nvd_score_event,güncel NVD Primary metriği var ama change history'de bu sürüm için NVD CVSS olayı yok; ilk skor belirlenemiyor
+CVE-2013-5560,2.0,history_has_no_nvd_score_event,güncel NVD Primary metriği var ama change history'de bu sürüm için NVD CVSS olayı yok; ilk skor belirlenemiyor
+CVE-2013-5568,2.0,history_has_no_nvd_score_event,güncel NVD Primary metriği var ama change history'de bu sürüm için NVD CVSS olayı yok; ilk skor belirlenemiyor
+CVE-2013-6012,2.0,history_has_no_nvd_score_event,güncel NVD Primary metriği var ama change history'de bu sürüm için NVD CVSS olayı yok; ilk skor belirlenemiyor
+CVE-2013-6013,2.0,history_has_no_nvd_score_event,güncel NVD Primary metriği var ama change history'de bu sürüm için NVD CVSS olayı yok; ilk skor belirlenemiyor
+CVE-2013-6015,2.0,history_has_no_nvd_score_event,güncel NVD Primary metriği var ama change history'de bu sürüm için NVD CVSS olayı yok; ilk skor belirlenemiyor
+CVE-2013-6170,2.0,history_has_no_nvd_score_event,güncel NVD Primary metriği var ama change history'de bu sürüm için NVD CVSS olayı yok; ilk skor belirlenemiyor
+CVE-2013-6618,2.0,history_has_no_nvd_score_event,güncel NVD Primary metriği var ama change history'de bu sürüm için NVD CVSS olayı yok; ilk skor belirlenemiyor
+CVE-2013-6682,2.0,history_has_no_nvd_score_event,güncel NVD Primary metriği var ama change history'de bu sürüm için NVD CVSS olayı yok; ilk skor belirlenemiyor
+CVE-2013-6696,2.0,history_has_no_nvd_score_event,güncel NVD Primary metriği var ama change history'de bu sürüm için NVD CVSS olayı yok; ilk skor belirlenemiyor
+CVE-2013-7313,2.0,history_has_no_nvd_score_event,güncel NVD Primary metriği var ama change history'de bu sürüm için NVD CVSS olayı yok; ilk skor belirlenemiyor
+CVE-2014-0612,2.0,history_has_no_nvd_score_event,güncel NVD Primary metriği var ama change history'de bu sürüm için NVD CVSS olayı yok; ilk skor belirlenemiyor
+CVE-2014-0613,2.0,history_has_no_nvd_score_event,güncel NVD Primary metriği var ama change history'de bu sürüm için NVD CVSS olayı yok; ilk skor belirlenemiyor
+CVE-2014-0614,2.0,history_has_no_nvd_score_event,güncel NVD Primary metriği var ama change history'de bu sürüm için NVD CVSS olayı yok; ilk skor belirlenemiyor
+CVE-2014-0615,2.0,history_has_no_nvd_score_event,güncel NVD Primary metriği var ama change history'de bu sürüm için NVD CVSS olayı yok; ilk skor belirlenemiyor
+CVE-2014-0616,2.0,history_has_no_nvd_score_event,güncel NVD Primary metriği var ama change history'de bu sürüm için NVD CVSS olayı yok; ilk skor belirlenemiyor
+CVE-2014-0617,2.0,history_has_no_nvd_score_event,güncel NVD Primary metriği var ama change history'de bu sürüm için NVD CVSS olayı yok; ilk skor belirlenemiyor
+CVE-2014-0618,2.0,history_has_no_nvd_score_event,güncel NVD Primary metriği var ama change history'de bu sürüm için NVD CVSS olayı yok; ilk skor belirlenemiyor
+CVE-2014-0738,2.0,history_has_no_nvd_score_event,güncel NVD Primary metriği var ama change history'de bu sürüm için NVD CVSS olayı yok; ilk skor belirlenemiyor
+CVE-2014-0739,2.0,history_has_no_nvd_score_event,güncel NVD Primary metriği var ama change history'de bu sürüm için NVD CVSS olayı yok; ilk skor belirlenemiyor
+CVE-2014-2120,2.0,history_has_no_nvd_score_event,güncel NVD Primary metriği var ama change history'de bu sürüm için NVD CVSS olayı yok; ilk skor belirlenemiyor
+CVE-2014-2126,2.0,history_has_no_nvd_score_event,güncel NVD Primary metriği var ama change history'de bu sürüm için NVD CVSS olayı yok; ilk skor belirlenemiyor
+CVE-2014-2127,2.0,history_has_no_nvd_score_event,güncel NVD Primary metriği var ama change history'de bu sürüm için NVD CVSS olayı yok; ilk skor belirlenemiyor
+CVE-2014-2128,2.0,history_has_no_nvd_score_event,güncel NVD Primary metriği var ama change history'de bu sürüm için NVD CVSS olayı yok; ilk skor belirlenemiyor
+CVE-2014-2129,2.0,history_has_no_nvd_score_event,güncel NVD Primary metriği var ama change history'de bu sürüm için NVD CVSS olayı yok; ilk skor belirlenemiyor
+CVE-2014-2154,2.0,history_has_no_nvd_score_event,güncel NVD Primary metriği var ama change history'de bu sürüm için NVD CVSS olayı yok; ilk skor belirlenemiyor
+CVE-2014-2181,2.0,history_has_no_nvd_score_event,güncel NVD Primary metriği var ama change history'de bu sürüm için NVD CVSS olayı yok; ilk skor belirlenemiyor
+CVE-2014-2182,2.0,history_has_no_nvd_score_event,güncel NVD Primary metriği var ama change history'de bu sürüm için NVD CVSS olayı yok; ilk skor belirlenemiyor
+CVE-2014-2183,2.0,history_has_no_nvd_score_event,güncel NVD Primary metriği var ama change history'de bu sürüm için NVD CVSS olayı yok; ilk skor belirlenemiyor
+CVE-2014-2711,2.0,history_has_no_nvd_score_event,güncel NVD Primary metriği var ama change history'de bu sürüm için NVD CVSS olayı yok; ilk skor belirlenemiyor
+CVE-2014-2712,2.0,history_has_no_nvd_score_event,güncel NVD Primary metriği var ama change history'de bu sürüm için NVD CVSS olayı yok; ilk skor belirlenemiyor
+CVE-2014-2713,2.0,history_has_no_nvd_score_event,güncel NVD Primary metriği var ama change history'de bu sürüm için NVD CVSS olayı yok; ilk skor belirlenemiyor
+CVE-2014-2714,2.0,history_has_no_nvd_score_event,güncel NVD Primary metriği var ama change history'de bu sürüm için NVD CVSS olayı yok; ilk skor belirlenemiyor
+CVE-2014-3284,2.0,history_has_no_nvd_score_event,güncel NVD Primary metriği var ama change history'de bu sürüm için NVD CVSS olayı yok; ilk skor belirlenemiyor
+CVE-2014-3390,2.0,history_has_no_nvd_score_event,güncel NVD Primary metriği var ama change history'de bu sürüm için NVD CVSS olayı yok; ilk skor belirlenemiyor
+CVE-2014-3391,2.0,history_has_no_nvd_score_event,güncel NVD Primary metriği var ama change history'de bu sürüm için NVD CVSS olayı yok; ilk skor belirlenemiyor
+CVE-2014-3392,2.0,history_has_no_nvd_score_event,güncel NVD Primary metriği var ama change history'de bu sürüm için NVD CVSS olayı yok; ilk skor belirlenemiyor
+CVE-2014-3393,2.0,history_has_no_nvd_score_event,güncel NVD Primary metriği var ama change history'de bu sürüm için NVD CVSS olayı yok; ilk skor belirlenemiyor
+CVE-2014-3394,2.0,history_has_no_nvd_score_event,güncel NVD Primary metriği var ama change history'de bu sürüm için NVD CVSS olayı yok; ilk skor belirlenemiyor
+CVE-2014-3398,2.0,history_has_no_nvd_score_event,güncel NVD Primary metriği var ama change history'de bu sürüm için NVD CVSS olayı yok; ilk skor belirlenemiyor
+CVE-2014-3815,2.0,history_has_no_nvd_score_event,güncel NVD Primary metriği var ama change history'de bu sürüm için NVD CVSS olayı yok; ilk skor belirlenemiyor
+CVE-2014-3816,2.0,history_has_no_nvd_score_event,güncel NVD Primary metriği var ama change history'de bu sürüm için NVD CVSS olayı yok; ilk skor belirlenemiyor
+CVE-2014-3817,2.0,history_has_no_nvd_score_event,güncel NVD Primary metriği var ama change history'de bu sürüm için NVD CVSS olayı yok; ilk skor belirlenemiyor
+CVE-2014-3818,2.0,history_has_no_nvd_score_event,güncel NVD Primary metriği var ama change history'de bu sürüm için NVD CVSS olayı yok; ilk skor belirlenemiyor
+CVE-2014-3819,2.0,history_has_no_nvd_score_event,güncel NVD Primary metriği var ama change history'de bu sürüm için NVD CVSS olayı yok; ilk skor belirlenemiyor
+CVE-2014-3821,2.0,history_has_no_nvd_score_event,güncel NVD Primary metriği var ama change history'de bu sürüm için NVD CVSS olayı yok; ilk skor belirlenemiyor
+CVE-2014-3822,2.0,history_has_no_nvd_score_event,güncel NVD Primary metriği var ama change history'de bu sürüm için NVD CVSS olayı yok; ilk skor belirlenemiyor
+CVE-2014-5455,2.0,history_has_no_nvd_score_event,güncel NVD Primary metriği var ama change history'de bu sürüm için NVD CVSS olayı yok; ilk skor belirlenemiyor
+CVE-2014-6378,2.0,history_has_no_nvd_score_event,güncel NVD Primary metriği var ama change history'de bu sürüm için NVD CVSS olayı yok; ilk skor belirlenemiyor
+CVE-2014-6379,2.0,history_has_no_nvd_score_event,güncel NVD Primary metriği var ama change history'de bu sürüm için NVD CVSS olayı yok; ilk skor belirlenemiyor
+CVE-2014-6380,2.0,history_has_no_nvd_score_event,güncel NVD Primary metriği var ama change history'de bu sürüm için NVD CVSS olayı yok; ilk skor belirlenemiyor
+CVE-2016-1285,3.0,no_current_nvd_primary_for_version,history NVD olay sayısı=4; son eylem=Removed
+CVE-2016-1286,3.0,no_current_nvd_primary_for_version,history NVD olay sayısı=2; son eylem=Removed
+CVE-2016-1445,3.0,no_current_nvd_primary_for_version,history NVD olay sayısı=2; son eylem=Removed
+CVE-2016-6366,3.0,no_current_nvd_primary_for_version,history NVD olay sayısı=2; son eylem=Removed
+CVE-2016-6367,3.0,no_current_nvd_primary_for_version,history NVD olay sayısı=2; son eylem=Removed
+CVE-2016-6433,3.0,no_current_nvd_primary_for_version,history NVD olay sayısı=3; son eylem=Removed
+CVE-2016-7103,3.0,no_current_nvd_primary_for_version,history NVD olay sayısı=2; son eylem=Removed
+CVE-2017-12166,3.0,no_current_nvd_primary_for_version,history NVD olay sayısı=2; son eylem=Removed
+CVE-2017-2314,3.0,no_current_nvd_primary_for_version,history NVD olay sayısı=2; son eylem=Removed
+CVE-2017-2680,3.0,no_current_nvd_primary_for_version,history NVD olay sayısı=2; son eylem=Removed
+CVE-2017-2681,3.0,no_current_nvd_primary_for_version,history NVD olay sayısı=2; son eylem=Removed
+CVE-2017-3145,3.0,no_current_nvd_primary_for_version,history NVD olay sayısı=2; son eylem=Removed
+CVE-2017-6770,3.0,no_current_nvd_primary_for_version,history NVD olay sayısı=3; son eylem=Removed
+CVE-2018-0049,3.0,no_current_nvd_primary_for_version,history NVD olay sayısı=2; son eylem=Removed
+CVE-2018-0063,3.0,no_current_nvd_primary_for_version,history NVD olay sayısı=2; son eylem=Removed
+CVE-2018-0227,3.0,no_current_nvd_primary_for_version,history NVD olay sayısı=2; son eylem=Removed
+CVE-2018-0228,3.0,no_current_nvd_primary_for_version,history NVD olay sayısı=2; son eylem=Removed
+CVE-2018-0240,3.0,no_current_nvd_primary_for_version,history NVD olay sayısı=3; son eylem=Removed
+CVE-2018-0278,3.0,no_current_nvd_primary_for_version,history NVD olay sayısı=2; son eylem=Removed
+CVE-2018-0296,3.0,no_current_nvd_primary_for_version,history NVD olay sayısı=2; son eylem=Removed
+CVE-2018-0385,3.0,no_current_nvd_primary_for_version,history NVD olay sayısı=2; son eylem=Removed
+CVE-2018-15383,3.0,no_current_nvd_primary_for_version,history NVD olay sayısı=2; son eylem=Removed
+CVE-2018-15397,3.0,no_current_nvd_primary_for_version,history NVD olay sayısı=2; son eylem=Removed
+CVE-2018-15399,3.0,no_current_nvd_primary_for_version,history NVD olay sayısı=2; son eylem=Removed
+CVE-2018-15504,3.0,no_current_nvd_primary_for_version,history NVD olay sayısı=2; son eylem=Removed
+CVE-2018-15505,3.0,no_current_nvd_primary_for_version,history NVD olay sayısı=2; son eylem=Removed
+CVE-2018-18999,3.0,no_current_nvd_primary_for_version,history NVD olay sayısı=2; son eylem=Removed
+CVE-2019-0001,3.0,no_current_nvd_primary_for_version,history NVD olay sayısı=2; son eylem=Removed
+CVE-2019-0002,3.0,no_current_nvd_primary_for_version,history NVD olay sayısı=2; son eylem=Removed
+CVE-2019-0003,3.0,no_current_nvd_primary_for_version,history NVD olay sayısı=2; son eylem=Removed
+CVE-2019-0005,3.0,no_current_nvd_primary_for_version,history NVD olay sayısı=2; son eylem=Removed
+CVE-2019-0006,3.0,no_current_nvd_primary_for_version,history NVD olay sayısı=2; son eylem=Removed
+CVE-2019-0008,3.0,no_current_nvd_primary_for_version,history NVD olay sayısı=2; son eylem=Removed
+CVE-2019-0009,3.0,no_current_nvd_primary_for_version,history NVD olay sayısı=2; son eylem=Removed
+CVE-2019-0011,3.0,no_current_nvd_primary_for_version,history NVD olay sayısı=2; son eylem=Removed
+CVE-2019-0012,3.0,no_current_nvd_primary_for_version,history NVD olay sayısı=2; son eylem=Removed
+CVE-2019-0015,3.0,no_current_nvd_primary_for_version,history NVD olay sayısı=2; son eylem=Removed
+CVE-2019-0019,3.0,no_current_nvd_primary_for_version,history NVD olay sayısı=2; son eylem=Removed
+CVE-2019-0028,3.0,no_current_nvd_primary_for_version,history NVD olay sayısı=2; son eylem=Removed
+CVE-2019-0031,3.0,no_current_nvd_primary_for_version,history NVD olay sayısı=2; son eylem=Removed
+CVE-2019-0035,3.0,no_current_nvd_primary_for_version,history NVD olay sayısı=2; son eylem=Removed
+CVE-2019-0036,3.0,no_current_nvd_primary_for_version,history NVD olay sayısı=2; son eylem=Removed
+CVE-2019-0037,3.0,no_current_nvd_primary_for_version,history NVD olay sayısı=2; son eylem=Removed
+CVE-2019-0038,3.0,no_current_nvd_primary_for_version,history NVD olay sayısı=2; son eylem=Removed
+CVE-2019-0039,3.0,no_current_nvd_primary_for_version,history NVD olay sayısı=2; son eylem=Removed
+CVE-2019-0040,3.0,no_current_nvd_primary_for_version,history NVD olay sayısı=2; son eylem=Removed
+CVE-2019-0041,3.0,no_current_nvd_primary_for_version,history NVD olay sayısı=2; son eylem=Removed
+CVE-2019-0043,3.0,no_current_nvd_primary_for_version,history NVD olay sayısı=2; son eylem=Removed
+CVE-2019-0044,3.0,no_current_nvd_primary_for_version,history NVD olay sayısı=2; son eylem=Removed
+CVE-2019-0046,3.0,no_current_nvd_primary_for_version,history NVD olay sayısı=2; son eylem=Removed
+CVE-2019-0048,3.0,no_current_nvd_primary_for_version,history NVD olay sayısı=2; son eylem=Removed
+CVE-2019-0049,3.0,no_current_nvd_primary_for_version,history NVD olay sayısı=2; son eylem=Removed
+CVE-2019-0052,3.0,no_current_nvd_primary_for_version,history NVD olay sayısı=2; son eylem=Removed
+CVE-2019-0053,3.0,no_current_nvd_primary_for_version,history NVD olay sayısı=2; son eylem=Removed
+CVE-2019-10929,3.0,no_current_nvd_primary_for_version,history NVD olay sayısı=2; son eylem=Removed
+CVE-2019-10936,3.1,current_nvd_metric_type_is_Secondary,güncel kayıtta nvd@nist.gov 3.1 metriği type=Secondary (Primary değil); history NVD olay sayısı=1
+CVE-2019-10943,3.0,no_current_nvd_primary_for_version,history NVD olay sayısı=2; son eylem=Removed
+CVE-2019-11358,3.0,no_current_nvd_primary_for_version,history NVD olay sayısı=2; son eylem=Removed
+CVE-2019-1649,3.0,no_current_nvd_primary_for_version,history NVD olay sayısı=2; son eylem=Removed
+CVE-2019-1687,3.0,no_current_nvd_primary_for_version,history NVD olay sayısı=2; son eylem=Removed
+CVE-2019-1693,3.0,no_current_nvd_primary_for_version,history NVD olay sayısı=2; son eylem=Removed
+CVE-2019-1694,3.0,no_current_nvd_primary_for_version,history NVD olay sayısı=2; son eylem=Removed
+CVE-2019-1695,3.0,no_current_nvd_primary_for_version,history NVD olay sayısı=2; son eylem=Removed
+CVE-2019-1706,3.0,no_current_nvd_primary_for_version,history NVD olay sayısı=2; son eylem=Removed
+CVE-2019-1708,3.0,no_current_nvd_primary_for_version,history NVD olay sayısı=2; son eylem=Removed
+CVE-2019-1714,3.0,no_current_nvd_primary_for_version,history NVD olay sayısı=2; son eylem=Removed
+CVE-2019-1802,3.0,no_current_nvd_primary_for_version,history NVD olay sayısı=2; son eylem=Removed
+CVE-2019-1934,3.0,no_current_nvd_primary_for_version,history NVD olay sayısı=2; son eylem=Removed
+CVE-2019-1949,3.0,no_current_nvd_primary_for_version,history NVD olay sayısı=2; son eylem=Removed
+CVE-2019-6568,3.0,no_current_nvd_primary_for_version,history NVD olay sayısı=2; son eylem=Removed
+CVE-2019-6568,3.1,current_nvd_metric_type_is_Secondary,güncel kayıtta nvd@nist.gov 3.1 metriği type=Secondary (Primary değil); history NVD olay sayısı=1
+CVE-2019-6572,3.0,no_current_nvd_primary_for_version,history NVD olay sayısı=2; son eylem=Removed
+CVE-2019-6575,3.0,no_current_nvd_primary_for_version,history NVD olay sayısı=2; son eylem=Removed
+CVE-2019-6827,3.0,no_current_nvd_primary_for_version,history NVD olay sayısı=2; son eylem=Removed
+CVE-2020-27124,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: psirt@cisco.com/Secondary/3.1
+CVE-2021-25220,3.1,current_nvd_metric_type_is_Secondary,güncel kayıtta nvd@nist.gov 3.1 metriği type=Secondary (Primary değil); history NVD olay sayısı=3
+CVE-2021-34750,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: psirt@cisco.com/Secondary/3.1
+CVE-2021-34751,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: psirt@cisco.com/Secondary/3.1
+CVE-2021-37185,3.1,current_nvd_metric_type_is_Secondary,güncel kayıtta nvd@nist.gov 3.1 metriği type=Secondary (Primary değil); history NVD olay sayısı=1
+CVE-2021-37204,3.1,current_nvd_metric_type_is_Secondary,güncel kayıtta nvd@nist.gov 3.1 metriği type=Secondary (Primary değil); history NVD olay sayısı=1
+CVE-2021-37205,3.1,current_nvd_metric_type_is_Secondary,güncel kayıtta nvd@nist.gov 3.1 metriği type=Secondary (Primary değil); history NVD olay sayısı=1
+CVE-2021-40365,3.1,current_nvd_metric_type_is_Secondary,güncel kayıtta nvd@nist.gov 3.1 metriği type=Secondary (Primary değil); history NVD olay sayısı=1
+CVE-2021-44693,3.1,current_nvd_metric_type_is_Secondary,güncel kayıtta nvd@nist.gov 3.1 metriği type=Secondary (Primary değil); history NVD olay sayısı=1
+CVE-2021-44694,3.1,current_nvd_metric_type_is_Secondary,güncel kayıtta nvd@nist.gov 3.1 metriği type=Secondary (Primary değil); history NVD olay sayısı=1
+CVE-2021-44695,3.1,current_nvd_metric_type_is_Secondary,güncel kayıtta nvd@nist.gov 3.1 metriği type=Secondary (Primary değil); history NVD olay sayısı=1
+CVE-2022-22184,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1
+CVE-2022-22201,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1
+CVE-2022-22208,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1
+CVE-2022-22218,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1
+CVE-2022-22219,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1
+CVE-2022-22224,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1
+CVE-2022-22225,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1
+CVE-2022-22226,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1
+CVE-2022-22228,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1
+CVE-2022-22230,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1
+CVE-2022-22231,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1
+CVE-2022-22232,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1
+CVE-2022-22234,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1
+CVE-2022-22236,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1
+CVE-2022-22240,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1
+CVE-2022-22242,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1
+CVE-2022-22243,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1
+CVE-2022-22244,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1
+CVE-2022-22245,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1
+CVE-2022-22249,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1
+CVE-2022-22251,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1
+CVE-2022-30694,3.1,current_nvd_metric_type_is_Secondary,güncel kayıtta nvd@nist.gov 3.1 metriği type=Secondary (Primary değil); history NVD olay sayısı=1
+CVE-2023-0026,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1
+CVE-2023-22391,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1
+CVE-2023-22394,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1
+CVE-2023-22395,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1
+CVE-2023-22396,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1
+CVE-2023-22399,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1
+CVE-2023-22403,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1
+CVE-2023-22404,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1
+CVE-2023-22405,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1
+CVE-2023-22406,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1
+CVE-2023-22407,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1
+CVE-2023-22408,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1
+CVE-2023-22409,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1
+CVE-2023-22411,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1
+CVE-2023-22412,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1
+CVE-2023-22413,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1
+CVE-2023-22414,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1
+CVE-2023-22415,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1
+CVE-2023-22416,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1
+CVE-2023-28959,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1
+CVE-2023-28963,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1
+CVE-2023-28964,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1
+CVE-2023-28967,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1
+CVE-2023-28968,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1
+CVE-2023-28970,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1
+CVE-2023-28972,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1
+CVE-2023-28975,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1
+CVE-2023-28976,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1
+CVE-2023-28980,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1
+CVE-2023-28981,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1
+CVE-2023-28982,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1
+CVE-2023-28984,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1
+CVE-2023-28985,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1
+CVE-2023-36831,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1
+CVE-2023-36832,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1
+CVE-2023-36834,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1
+CVE-2023-36838,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1
+CVE-2023-36840,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1
+CVE-2023-36845,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1
+CVE-2023-36848,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1
+CVE-2023-36849,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1
+CVE-2023-36850,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1
+CVE-2023-4481,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1
+CVE-2024-20268,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: psirt@cisco.com/Secondary/3.1
+CVE-2024-20274,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: psirt@cisco.com/Secondary/3.1
+CVE-2024-20275,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: psirt@cisco.com/Secondary/3.1
+CVE-2024-20293,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: psirt@cisco.com/Secondary/3.1
+CVE-2024-20297,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: psirt@cisco.com/Secondary/3.1
+CVE-2024-20299,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: psirt@cisco.com/Secondary/3.1
+CVE-2024-20329,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: psirt@cisco.com/Secondary/3.1
+CVE-2024-20361,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: psirt@cisco.com/Secondary/3.1
+CVE-2024-20384,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: psirt@cisco.com/Secondary/3.1
+CVE-2024-20408,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: psirt@cisco.com/Secondary/3.1
+CVE-2024-20494,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: psirt@cisco.com/Secondary/3.1
+CVE-2024-20495,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: psirt@cisco.com/Secondary/3.1
+CVE-2024-21586,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1
+CVE-2024-21593,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1;sirt@juniper.net/Secondary/4.0
+CVE-2024-21598,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1;sirt@juniper.net/Secondary/4.0
+CVE-2024-21605,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1;sirt@juniper.net/Secondary/4.0
+CVE-2024-21609,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1;sirt@juniper.net/Secondary/4.0
+CVE-2024-21615,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1;sirt@juniper.net/Secondary/4.0
+CVE-2024-21618,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1;sirt@juniper.net/Secondary/4.0
+CVE-2024-28882,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: 134c704f-9b21-4f2e-91b3-4a467353bcc0/Secondary/3.1
+CVE-2024-30378,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1;sirt@juniper.net/Secondary/4.0
+CVE-2024-30380,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1;sirt@juniper.net/Secondary/4.0
+CVE-2024-30382,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1;sirt@juniper.net/Secondary/4.0
+CVE-2024-30384,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1;sirt@juniper.net/Secondary/4.0
+CVE-2024-30386,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1;sirt@juniper.net/Secondary/4.0
+CVE-2024-30387,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1;sirt@juniper.net/Secondary/4.0
+CVE-2024-30388,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1;sirt@juniper.net/Secondary/4.0
+CVE-2024-30389,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1;sirt@juniper.net/Secondary/4.0
+CVE-2024-30391,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1;sirt@juniper.net/Secondary/4.0
+CVE-2024-30392,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1;sirt@juniper.net/Secondary/4.0
+CVE-2024-30394,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1;sirt@juniper.net/Secondary/4.0
+CVE-2024-30395,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1;sirt@juniper.net/Secondary/4.0
+CVE-2024-30397,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1;sirt@juniper.net/Secondary/4.0
+CVE-2024-30398,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1;sirt@juniper.net/Secondary/4.0
+CVE-2024-30401,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1;sirt@juniper.net/Secondary/4.0
+CVE-2024-30405,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1;sirt@juniper.net/Secondary/4.0
+CVE-2024-30409,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1;sirt@juniper.net/Secondary/4.0
+CVE-2024-30410,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1;sirt@juniper.net/Secondary/4.0
+CVE-2024-39511,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1;sirt@juniper.net/Secondary/4.0
+CVE-2024-39514,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1;sirt@juniper.net/Secondary/4.0
+CVE-2024-39515,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1;sirt@juniper.net/Secondary/4.0
+CVE-2024-39516,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1;sirt@juniper.net/Secondary/4.0
+CVE-2024-39517,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1;sirt@juniper.net/Secondary/4.0
+CVE-2024-39518,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1;sirt@juniper.net/Secondary/4.0
+CVE-2024-39525,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1;sirt@juniper.net/Secondary/4.0
+CVE-2024-39526,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1;sirt@juniper.net/Secondary/4.0
+CVE-2024-39527,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1;sirt@juniper.net/Secondary/4.0
+CVE-2024-39528,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1;sirt@juniper.net/Secondary/4.0
+CVE-2024-39529,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1;sirt@juniper.net/Secondary/4.0
+CVE-2024-39532,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1
+CVE-2024-39533,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1;sirt@juniper.net/Secondary/4.0
+CVE-2024-39536,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1;sirt@juniper.net/Secondary/4.0
+CVE-2024-39539,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1;sirt@juniper.net/Secondary/4.0
+CVE-2024-39540,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1;sirt@juniper.net/Secondary/4.0
+CVE-2024-39541,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1;sirt@juniper.net/Secondary/4.0
+CVE-2024-39542,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1;sirt@juniper.net/Secondary/4.0
+CVE-2024-39543,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1;sirt@juniper.net/Secondary/4.0
+CVE-2024-39545,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1;sirt@juniper.net/Secondary/4.0
+CVE-2024-39549,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1;sirt@juniper.net/Secondary/4.0
+CVE-2024-39550,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1;sirt@juniper.net/Secondary/4.0
+CVE-2024-39551,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1;sirt@juniper.net/Secondary/4.0
+CVE-2024-39552,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1;sirt@juniper.net/Secondary/4.0
+CVE-2024-39554,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1;sirt@juniper.net/Secondary/4.0
+CVE-2024-39555,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1;sirt@juniper.net/Secondary/4.0
+CVE-2024-39558,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1;sirt@juniper.net/Secondary/4.0
+CVE-2024-39560,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1;sirt@juniper.net/Secondary/4.0
+CVE-2024-39561,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1;sirt@juniper.net/Secondary/4.0
+CVE-2024-39564,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1;sirt@juniper.net/Secondary/4.0
+CVE-2024-39565,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1;sirt@juniper.net/Secondary/4.0
+CVE-2024-47491,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1;sirt@juniper.net/Secondary/4.0
+CVE-2024-47493,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1;sirt@juniper.net/Secondary/4.0
+CVE-2024-47494,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1;sirt@juniper.net/Secondary/4.0
+CVE-2024-47496,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1;sirt@juniper.net/Secondary/4.0
+CVE-2024-47497,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1;sirt@juniper.net/Secondary/4.0
+CVE-2024-47499,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1;sirt@juniper.net/Secondary/4.0
+CVE-2024-47501,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1;sirt@juniper.net/Secondary/4.0
+CVE-2024-47503,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1;sirt@juniper.net/Secondary/4.0
+CVE-2024-47504,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1;sirt@juniper.net/Secondary/4.0
+CVE-2024-47506,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1;sirt@juniper.net/Secondary/4.0
+CVE-2024-47507,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1;sirt@juniper.net/Secondary/4.0
+CVE-2024-4877,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: 134c704f-9b21-4f2e-91b3-4a467353bcc0/Secondary/3.1
+CVE-2024-5535,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: 134c704f-9b21-4f2e-91b3-4a467353bcc0/Secondary/3.1
+CVE-2024-5594,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: 134c704f-9b21-4f2e-91b3-4a467353bcc0/Secondary/3.1
+CVE-2024-9143,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: 134c704f-9b21-4f2e-91b3-4a467353bcc0/Secondary/3.1
+CVE-2025-12106,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: 134c704f-9b21-4f2e-91b3-4a467353bcc0/Secondary/3.1
+CVE-2025-20127,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: psirt@cisco.com/Secondary/3.1
+CVE-2025-20148,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: psirt@cisco.com/Secondary/3.1
+CVE-2025-20182,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: psirt@cisco.com/Secondary/3.1
+CVE-2025-20218,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: psirt@cisco.com/Secondary/3.1
+CVE-2025-20224,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: psirt@cisco.com/Secondary/3.1
+CVE-2025-20235,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: psirt@cisco.com/Secondary/3.1
+CVE-2025-20265,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: psirt@cisco.com/Secondary/3.1
+CVE-2025-20301,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: psirt@cisco.com/Secondary/3.1
+CVE-2025-20302,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: psirt@cisco.com/Secondary/3.1
+CVE-2025-20306,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: psirt@cisco.com/Secondary/3.1
+CVE-2025-20333,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: psirt@cisco.com/Secondary/3.1
+CVE-2025-20363,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: psirt@cisco.com/Secondary/3.1
+CVE-2025-21590,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1;sirt@juniper.net/Secondary/4.0
+CVE-2025-21591,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1;sirt@juniper.net/Secondary/4.0
+CVE-2025-21592,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1;sirt@juniper.net/Secondary/4.0
+CVE-2025-21593,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1;sirt@juniper.net/Secondary/4.0
+CVE-2025-21594,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1;sirt@juniper.net/Secondary/4.0
+CVE-2025-21595,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1;sirt@juniper.net/Secondary/4.0
+CVE-2025-21596,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1;sirt@juniper.net/Secondary/4.0
+CVE-2025-21597,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1;sirt@juniper.net/Secondary/4.0
+CVE-2025-21598,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1;sirt@juniper.net/Secondary/4.0
+CVE-2025-21600,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1;sirt@juniper.net/Secondary/4.0
+CVE-2025-21601,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1;sirt@juniper.net/Secondary/4.0
+CVE-2025-21602,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1;sirt@juniper.net/Secondary/4.0
+CVE-2025-2704,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: 134c704f-9b21-4f2e-91b3-4a467353bcc0/Secondary/3.1
+CVE-2025-30644,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1;sirt@juniper.net/Secondary/4.0
+CVE-2025-30645,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1;sirt@juniper.net/Secondary/4.0
+CVE-2025-30646,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1;sirt@juniper.net/Secondary/4.0
+CVE-2025-30647,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1;sirt@juniper.net/Secondary/4.0
+CVE-2025-30648,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1;sirt@juniper.net/Secondary/4.0
+CVE-2025-30649,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1;sirt@juniper.net/Secondary/4.0
+CVE-2025-30650,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1;sirt@juniper.net/Secondary/4.0
+CVE-2025-30651,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1;sirt@juniper.net/Secondary/4.0
+CVE-2025-30652,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1;sirt@juniper.net/Secondary/4.0
+CVE-2025-30653,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1;sirt@juniper.net/Secondary/4.0
+CVE-2025-30654,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1;sirt@juniper.net/Secondary/4.0
+CVE-2025-30655,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1;sirt@juniper.net/Secondary/4.0
+CVE-2025-30656,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1;sirt@juniper.net/Secondary/4.0
+CVE-2025-30657,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1;sirt@juniper.net/Secondary/4.0
+CVE-2025-30658,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1;sirt@juniper.net/Secondary/4.0
+CVE-2025-30659,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1;sirt@juniper.net/Secondary/4.0
+CVE-2025-30660,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1;sirt@juniper.net/Secondary/4.0
+CVE-2025-30661,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1;sirt@juniper.net/Secondary/4.0
+CVE-2025-39964,3.1,first_vector_score_not_in_raw_lookup,AV:L/AC:L/PR:L/UI:N/S:U/C:N/I:N/A:L
+CVE-2025-52946,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1;sirt@juniper.net/Secondary/4.0
+CVE-2025-52947,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1;sirt@juniper.net/Secondary/4.0
+CVE-2025-52948,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1;sirt@juniper.net/Secondary/4.0
+CVE-2025-52949,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1;sirt@juniper.net/Secondary/4.0
+CVE-2025-52951,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1;sirt@juniper.net/Secondary/4.0
+CVE-2025-52952,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1;sirt@juniper.net/Secondary/4.0
+CVE-2025-52953,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1;sirt@juniper.net/Secondary/4.0
+CVE-2025-52955,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1;sirt@juniper.net/Secondary/4.0
+CVE-2025-52958,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1;sirt@juniper.net/Secondary/4.0
+CVE-2025-52960,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1;sirt@juniper.net/Secondary/4.0
+CVE-2025-52963,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1;sirt@juniper.net/Secondary/4.0
+CVE-2025-52964,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1;sirt@juniper.net/Secondary/4.0
+CVE-2025-52980,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1;sirt@juniper.net/Secondary/4.0
+CVE-2025-52981,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1;sirt@juniper.net/Secondary/4.0
+CVE-2025-52982,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1;sirt@juniper.net/Secondary/4.0
+CVE-2025-52983,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1;sirt@juniper.net/Secondary/4.0
+CVE-2025-52984,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1;sirt@juniper.net/Secondary/4.0
+CVE-2025-52986,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1;sirt@juniper.net/Secondary/4.0
+CVE-2025-52988,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1;sirt@juniper.net/Secondary/4.0
+CVE-2025-52989,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1;sirt@juniper.net/Secondary/4.0
+CVE-2025-5825,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: zdi-disclosures@trendmicro.com/Secondary/3.0
+CVE-2025-5826,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: zdi-disclosures@trendmicro.com/Secondary/3.0
+CVE-2025-5827,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: zdi-disclosures@trendmicro.com/Secondary/3.0
+CVE-2025-5828,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: zdi-disclosures@trendmicro.com/Secondary/3.0
+CVE-2025-5829,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: zdi-disclosures@trendmicro.com/Secondary/3.0
+CVE-2025-5830,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: zdi-disclosures@trendmicro.com/Secondary/3.0
+CVE-2025-59957,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1;sirt@juniper.net/Secondary/4.0
+CVE-2025-59959,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1;sirt@juniper.net/Secondary/4.0
+CVE-2025-59960,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1;sirt@juniper.net/Secondary/4.0
+CVE-2025-59961,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1;sirt@juniper.net/Secondary/4.0
+CVE-2025-59962,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1;sirt@juniper.net/Secondary/4.0
+CVE-2025-59964,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1;sirt@juniper.net/Secondary/4.0
+CVE-2025-59980,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1;sirt@juniper.net/Secondary/4.0
+CVE-2025-60003,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1;sirt@juniper.net/Secondary/4.0
+CVE-2025-60004,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1;sirt@juniper.net/Secondary/4.0
+CVE-2025-60007,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1;sirt@juniper.net/Secondary/4.0
+CVE-2025-60010,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1;sirt@juniper.net/Secondary/4.0
+CVE-2025-60011,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1;sirt@juniper.net/Secondary/4.0
+CVE-2025-6549,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1;sirt@juniper.net/Secondary/4.0
+CVE-2025-6678,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: zdi-disclosures@trendmicro.com/Secondary/3.0
+CVE-2025-9230,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: 134c704f-9b21-4f2e-91b3-4a467353bcc0/Secondary/3.1
+CVE-2025-9232,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: 134c704f-9b21-4f2e-91b3-4a467353bcc0/Secondary/3.1
+CVE-2026-0203,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1;sirt@juniper.net/Secondary/4.0
+CVE-2026-101986,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1;sirt@juniper.net/Secondary/4.0
+CVE-2026-101990,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1;sirt@juniper.net/Secondary/4.0
+CVE-2026-20002,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: psirt@cisco.com/Secondary/3.1
+CVE-2026-20003,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: psirt@cisco.com/Secondary/3.1
+CVE-2026-20008,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: psirt@cisco.com/Secondary/3.1
+CVE-2026-20009,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: psirt@cisco.com/Secondary/3.1
+CVE-2026-20012,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: psirt@cisco.com/Secondary/3.1
+CVE-2026-20013,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: psirt@cisco.com/Secondary/3.1
+CVE-2026-20014,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: psirt@cisco.com/Secondary/3.1
+CVE-2026-20015,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: psirt@cisco.com/Secondary/3.1
+CVE-2026-20021,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: psirt@cisco.com/Secondary/3.1
+CVE-2026-20025,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: psirt@cisco.com/Secondary/3.1
+CVE-2026-20039,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: psirt@cisco.com/Secondary/3.1
+CVE-2026-20044,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: psirt@cisco.com/Secondary/3.1
+CVE-2026-20049,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: psirt@cisco.com/Secondary/3.1
+CVE-2026-20069,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: psirt@cisco.com/Secondary/3.1
+CVE-2026-20070,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: psirt@cisco.com/Secondary/3.1
+CVE-2026-20073,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: psirt@cisco.com/Secondary/3.1
+CVE-2026-20079,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: psirt@cisco.com/Secondary/3.1
+CVE-2026-20082,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: psirt@cisco.com/Secondary/3.1
+CVE-2026-20100,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: psirt@cisco.com/Secondary/3.1
+CVE-2026-20101,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: psirt@cisco.com/Secondary/3.1
+CVE-2026-20102,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: psirt@cisco.com/Secondary/3.1
+CVE-2026-20103,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: psirt@cisco.com/Secondary/3.1
+CVE-2026-20105,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: psirt@cisco.com/Secondary/3.1
+CVE-2026-20106,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: psirt@cisco.com/Secondary/3.1
+CVE-2026-20131,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: psirt@cisco.com/Secondary/3.1
+CVE-2026-20316,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: psirt@cisco.com/Secondary/3.1
+CVE-2026-20349,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: psirt@cisco.com/Secondary/3.1
+CVE-2026-21901,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1;sirt@juniper.net/Secondary/4.0
+CVE-2026-21903,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1;sirt@juniper.net/Secondary/4.0
+CVE-2026-21905,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1;sirt@juniper.net/Secondary/4.0
+CVE-2026-21906,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1;sirt@juniper.net/Secondary/4.0
+CVE-2026-21908,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1;sirt@juniper.net/Secondary/4.0
+CVE-2026-21909,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1;sirt@juniper.net/Secondary/4.0
+CVE-2026-21910,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1;sirt@juniper.net/Secondary/4.0
+CVE-2026-21913,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1;sirt@juniper.net/Secondary/4.0
+CVE-2026-21914,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1;sirt@juniper.net/Secondary/4.0
+CVE-2026-21916,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1;sirt@juniper.net/Secondary/4.0
+CVE-2026-21917,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1;sirt@juniper.net/Secondary/4.0
+CVE-2026-21918,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1;sirt@juniper.net/Secondary/4.0
+CVE-2026-21919,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1;sirt@juniper.net/Secondary/4.0
+CVE-2026-21920,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1;sirt@juniper.net/Secondary/4.0
+CVE-2026-21921,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1;sirt@juniper.net/Secondary/4.0
+CVE-2026-31431,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: 0b0ca135-0b70-47e7-9f44-1890c2a1c46c/Secondary/3.1;416baaa9-dc9f-4396-8d5f-8c081fb06d67/Secondary/3.1
+CVE-2026-33773,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1;sirt@juniper.net/Secondary/4.0
+CVE-2026-33775,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1;sirt@juniper.net/Secondary/4.0
+CVE-2026-33776,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1;sirt@juniper.net/Secondary/4.0
+CVE-2026-33778,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1;sirt@juniper.net/Secondary/4.0
+CVE-2026-33779,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1;sirt@juniper.net/Secondary/4.0
+CVE-2026-33780,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1;sirt@juniper.net/Secondary/4.0
+CVE-2026-33781,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1;sirt@juniper.net/Secondary/4.0
+CVE-2026-33782,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1;sirt@juniper.net/Secondary/4.0
+CVE-2026-33785,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1;sirt@juniper.net/Secondary/4.0
+CVE-2026-33786,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1;sirt@juniper.net/Secondary/4.0
+CVE-2026-33787,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1;sirt@juniper.net/Secondary/4.0
+CVE-2026-33790,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1;sirt@juniper.net/Secondary/4.0
+CVE-2026-33791,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1;sirt@juniper.net/Secondary/4.0
+CVE-2026-33793,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1;sirt@juniper.net/Secondary/4.0
+CVE-2026-33797,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1;sirt@juniper.net/Secondary/4.0
+CVE-2026-33799,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1;sirt@juniper.net/Secondary/4.0
+CVE-2026-33800,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1;sirt@juniper.net/Secondary/4.0
+CVE-2026-33801,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1;sirt@juniper.net/Secondary/4.0
+CVE-2026-33802,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1;sirt@juniper.net/Secondary/4.0
+CVE-2026-57019,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1;sirt@juniper.net/Secondary/4.0
+CVE-2026-57020,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1;sirt@juniper.net/Secondary/4.0
+CVE-2026-57021,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1;sirt@juniper.net/Secondary/4.0
+CVE-2026-57022,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1;sirt@juniper.net/Secondary/4.0
+CVE-2026-57023,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1;sirt@juniper.net/Secondary/4.0
+CVE-2026-57024,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1;sirt@juniper.net/Secondary/4.0
+CVE-2026-57025,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1;sirt@juniper.net/Secondary/4.0
+CVE-2026-57026,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1;sirt@juniper.net/Secondary/4.0
+CVE-2026-57027,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1;sirt@juniper.net/Secondary/4.0
+CVE-2026-57030,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1;sirt@juniper.net/Secondary/4.0
+CVE-2026-57031,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1;sirt@juniper.net/Secondary/4.0
+CVE-2026-57032,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1;sirt@juniper.net/Secondary/4.0
+CVE-2026-57054,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: sirt@juniper.net/Secondary/3.1;sirt@juniper.net/Secondary/4.0
+CVE-2026-76418,,no_nvd_primary_metric_and_no_nvd_cvss_event,metrik kaynakları: psirt@cisco.com/Secondary/3.1

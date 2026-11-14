@@ -1,0 +1,7 @@
+level,threshold,n_defined,n_undefined,increased,decreased,unchanged
+paths,0.05,84,0,37,14,33
+paths,0.10,84,0,24,3,57
+paths,0.15,84,0,0,0,84
+devices,0.05,13,0,1,2,10
+devices,0.10,13,0,1,2,10
+devices,0.15,13,0,1,1,11

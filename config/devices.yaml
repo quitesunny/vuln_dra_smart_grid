@@ -1,0 +1,381 @@
+version: 2
+generated: '2026-11-13'
+rules: config/selection_rules.md
+devices:
+- device_id: FIELD-METER-01
+  slot: meter
+  role: Sayaç / DER / EV şarj
+  layer: field
+  vendor: autel
+  family_key: maxicharger_single_charger
+  member_cpes:
+  - o:autel:maxicharger_single_charger_firmware
+  cpe_match_strings:
+  - cpe:2.3:o:autel:maxicharger_single_charger_firmware:*:*:*:*:*:*:*:*
+  ladder_rung: 4
+  ladder_rung_label: EV şarj cihazı
+  selection_kind: birincil
+  vulnerable_true_cve_count: 18
+  total_matched_cve_count: 18
+  vulnerable_with_nvd_primary_cvss: 11
+  notes: 'NVD CPE title örnekleri: Autel Maxicharger Single Charger Firmware 1.39.51 American Standard | Autel Maxicharger Single Charger Firmware 1.56.51 European Standard | Autel Maxicharger Single Charger
+    Firmware American Standard'
+- device_id: SECURITY-FIREWALL-01
+  slot: firewall
+  role: Firewall
+  layer: security
+  vendor: cisco
+  family_key: adaptive_security_appliance_software
+  member_cpes:
+  - o:cisco:adaptive_security_appliance_software
+  cpe_match_strings:
+  - cpe:2.3:o:cisco:adaptive_security_appliance_software:*:*:*:*:*:*:*:*
+  ladder_rung: 1
+  ladder_rung_label: firewall
+  selection_kind: birincil
+  vulnerable_true_cve_count: 341
+  total_matched_cve_count: 341
+  vulnerable_with_nvd_primary_cvss: 304
+  notes: 'NVD CPE title örnekleri: Cisco Adaptive Security Appliance (ASA) Software 8.6.1.12 | Cisco Adaptive Security Appliance (ASA) Software 9.1.4.5 | Cisco Adaptive Security Appliance (ASA) Software
+    9.1.1'
+- device_id: SECURITY-VPN-01
+  slot: vpn
+  role: VPN
+  layer: security
+  vendor: cisco
+  family_key: rv215w_wireless-n_vpn_router
+  member_cpes:
+  - h:cisco:rv215w_wireless-n_vpn_router
+  - o:cisco:rv215w_wireless-n_vpn_router_firmware
+  cpe_match_strings:
+  - cpe:2.3:h:cisco:rv215w_wireless-n_vpn_router:*:*:*:*:*:*:*:*
+  - cpe:2.3:o:cisco:rv215w_wireless-n_vpn_router_firmware:*:*:*:*:*:*:*:*
+  ladder_rung: 1
+  ladder_rung_label: VPN
+  selection_kind: birincil
+  vulnerable_true_cve_count: 68
+  total_matched_cve_count: 72
+  vulnerable_with_nvd_primary_cvss: 68
+  notes: 'NVD CPE title örnekleri: Cisco RV215W Wireless-N VPN Router | Cisco RV215W Wireless-N VPN Router Firmware 1.1.0.5 | Cisco RV215W Wireless-N VPN Router Firmware 1.2.0.15'
+- device_id: CONTROL-PLC-01
+  slot: plc
+  role: PLC
+  layer: control
+  vendor: siemens
+  family_key: simatic_s7-1500_cpu_1518-4_pn\/dp_mfp
+  member_cpes:
+  - h:siemens:simatic_s7-1500_cpu_1518-4_pn\/dp_mfp
+  - o:siemens:simatic_s7-1500_cpu_1518-4_pn\/dp_mfp_firmware
+  cpe_match_strings:
+  - cpe:2.3:h:siemens:simatic_s7-1500_cpu_1518-4_pn\/dp_mfp:*:*:*:*:*:*:*:*
+  - cpe:2.3:o:siemens:simatic_s7-1500_cpu_1518-4_pn\/dp_mfp_firmware:*:*:*:*:*:*:*:*
+  ladder_rung: 1
+  ladder_rung_label: PLC
+  selection_kind: birincil
+  vulnerable_true_cve_count: 17
+  total_matched_cve_count: 19
+  vulnerable_with_nvd_primary_cvss: 7
+  notes: 'NVD CPE title örnekleri: Siemens SIMATIC S7-1500 CPU 1518-4 PN/DP MFP - | Siemens SIMATIC S7-1500 CPU 1518-4 PN/DP MFP Firmware | Siemens SIMATIC S7-1500 CPU 1518-4 PN/DP MFP Firmware 2.9.7'
+- device_id: CONTROL-HMI-01
+  slot: hmi
+  role: HMI
+  layer: control
+  vendor: siemens
+  family_key: simatic_hmi_ktp_mobile_panels_ktp400f
+  member_cpes:
+  - h:siemens:simatic_hmi_ktp_mobile_panels_ktp400f
+  - o:siemens:simatic_hmi_ktp_mobile_panels_ktp400f_firmware
+  cpe_match_strings:
+  - cpe:2.3:h:siemens:simatic_hmi_ktp_mobile_panels_ktp400f:*:*:*:*:*:*:*:*
+  - cpe:2.3:o:siemens:simatic_hmi_ktp_mobile_panels_ktp400f_firmware:*:*:*:*:*:*:*:*
+  ladder_rung: 1
+  ladder_rung_label: HMI
+  selection_kind: birincil
+  vulnerable_true_cve_count: 15
+  total_matched_cve_count: 15
+  vulnerable_with_nvd_primary_cvss: 15
+  notes: 'NVD CPE title örnekleri: Siemens Simatic HMI KTP Mobile Panels KTP400F | Siemens SIMATIC HMI KTP Mobile Panels Ktp400f Firmware 14.0 | Siemens SIMATIC HMI KTP Mobile Panels KTP400F Firmware 15.1'
+- device_id: CONTROL-SCADA-01
+  slot: scada
+  role: SCADA
+  layer: control
+  vendor: schneider-electric
+  family_key: interactive_graphical_scada_system
+  member_cpes:
+  - a:schneider-electric:interactive_graphical_scada_system
+  cpe_match_strings:
+  - cpe:2.3:a:schneider-electric:interactive_graphical_scada_system:*:*:*:*:*:*:*:*
+  ladder_rung: 1
+  ladder_rung_label: SCADA
+  selection_kind: birincil
+  vulnerable_true_cve_count: 43
+  total_matched_cve_count: 43
+  vulnerable_with_nvd_primary_cvss: 43
+  notes: 'NVD CPE title örnekleri: Schneider Electric Interacive Graphical SCADA System (IGSS) 10.0 | Schneider Electric Interactive Graphical SCADA System (IGSS) 9.0 | Schneider Electric Interactive Graphical
+    SCADA System (IGSS) 12.0'
+- device_id: COMMUNICATION-ROUTER-MODEM-01
+  slot: router_modem
+  role: Router / Modem
+  layer: communication
+  vendor: juniper
+  family_key: junos
+  member_cpes:
+  - h:juniper:junos
+  - o:juniper:junos
+  cpe_match_strings:
+  - cpe:2.3:h:juniper:junos:*:*:*:*:*:*:*:*
+  - cpe:2.3:o:juniper:junos:*:*:*:*:*:*:*:*
+  ladder_rung: 1
+  ladder_rung_label: router/modem
+  selection_kind: birincil
+  vulnerable_true_cve_count: 793
+  total_matched_cve_count: 794
+  vulnerable_with_nvd_primary_cvss: 549
+  notes: 'NVD CPE title örnekleri: Juniper JUNOS | Juniper Juniper Router M10 5.0 r3 | Juniper Juniper Router M10 5.0 r4'
+- device_id: CONTROL-SCADA-02
+  slot: scada
+  role: SCADA
+  layer: control
+  vendor: advantech
+  family_key: webaccess\/scada
+  member_cpes:
+  - a:advantech:webaccess\/scada
+  cpe_match_strings:
+  - cpe:2.3:a:advantech:webaccess\/scada:*:*:*:*:*:*:*:*
+  ladder_rung: 1
+  ladder_rung_label: SCADA
+  selection_kind: ek kontenjan (ikinci aday)
+  vulnerable_true_cve_count: 29
+  total_matched_cve_count: 29
+  vulnerable_with_nvd_primary_cvss: 29
+  notes: 'NVD CPE title örnekleri: Advantech WebAccess/SCADA 7.2 | Advantech WebAccess/SCADA 8.0 | Advantech WebAccess/SCADA 8.1'
+- device_id: CONTROL-PLC-02
+  slot: plc
+  role: PLC
+  layer: control
+  vendor: siemens
+  family_key: simatic_s7-1200_cpu_1211c
+  member_cpes:
+  - h:siemens:simatic_s7-1200_cpu_1211c
+  - o:siemens:simatic_s7-1200_cpu_1211c_firmware
+  cpe_match_strings:
+  - cpe:2.3:h:siemens:simatic_s7-1200_cpu_1211c:*:*:*:*:*:*:*:*
+  - cpe:2.3:o:siemens:simatic_s7-1200_cpu_1211c_firmware:*:*:*:*:*:*:*:*
+  ladder_rung: 1
+  ladder_rung_label: PLC
+  selection_kind: ek kontenjan (ikinci aday)
+  vulnerable_true_cve_count: 16
+  total_matched_cve_count: 17
+  vulnerable_with_nvd_primary_cvss: 11
+  notes: 'NVD CPE title örnekleri: Siemens SIMATIC S7-1200 CPU 1211C Firmware | Siemens SIMATIC S7-1200 CPU 1211C Firmware 4.0 | Siemens SIMATIC S7-1200 CPU 1211C Firmware 4.4.0'
+- device_id: CONTROL-HMI-02
+  slot: hmi
+  role: HMI
+  layer: control
+  vendor: siemens
+  family_key: simatic_hmi_comfort_panels
+  member_cpes:
+  - h:siemens:simatic_hmi_comfort_panels
+  - o:siemens:simatic_hmi_comfort_panels
+  - o:siemens:simatic_hmi_comfort_panels_firmware
+  cpe_match_strings:
+  - cpe:2.3:h:siemens:simatic_hmi_comfort_panels:*:*:*:*:*:*:*:*
+  - cpe:2.3:o:siemens:simatic_hmi_comfort_panels:*:*:*:*:*:*:*:*
+  - cpe:2.3:o:siemens:simatic_hmi_comfort_panels_firmware:*:*:*:*:*:*:*:*
+  ladder_rung: 1
+  ladder_rung_label: HMI
+  selection_kind: ek kontenjan (ikinci aday)
+  vulnerable_true_cve_count: 14
+  total_matched_cve_count: 15
+  vulnerable_with_nvd_primary_cvss: 14
+  notes: 'NVD CPE title örnekleri: Siemens SIMATIC HMI Comfort Panels | Siemens SIMATIC HMI Comfort Panels 15.1 | Siemens SIMATIC HMI Comfort Panels Firmware 14.0'
+- device_id: COMMUNICATION-ROUTER-MODEM-02
+  slot: router_modem
+  role: Router / Modem
+  layer: communication
+  vendor: cisco
+  family_key: asr_1001
+  member_cpes:
+  - h:cisco:asr_1001
+  - o:cisco:asr_1001_firmware
+  cpe_match_strings:
+  - cpe:2.3:h:cisco:asr_1001:*:*:*:*:*:*:*:*
+  - cpe:2.3:o:cisco:asr_1001_firmware:*:*:*:*:*:*:*:*
+  ladder_rung: 1
+  ladder_rung_label: router/modem
+  selection_kind: ek kontenjan (ikinci aday)
+  vulnerable_true_cve_count: 15
+  total_matched_cve_count: 58
+  vulnerable_with_nvd_primary_cvss: 15
+  notes: 'NVD CPE title örnekleri: Cisco ASR 1001 | Cisco Aggregation Services Router (ASR) 1001 Firmware 16.0.0'
+- device_id: SECURITY-FIREWALL-02
+  slot: firewall
+  role: Firewall
+  layer: security
+  vendor: cisco
+  family_key: secure_firewall_management_center
+  member_cpes:
+  - a:cisco:secure_firewall_management_center
+  cpe_match_strings:
+  - cpe:2.3:a:cisco:secure_firewall_management_center:*:*:*:*:*:*:*:*
+  ladder_rung: 1
+  ladder_rung_label: firewall
+  selection_kind: ek kontenjan (ikinci aday)
+  vulnerable_true_cve_count: 187
+  total_matched_cve_count: 187
+  vulnerable_with_nvd_primary_cvss: 169
+  notes: 'NVD CPE title örnekleri: Cisco Secure Firewall Management Center | Cisco Secure Firewall Management Center 2.0.3 | Cisco Secure Firewall Management Center 2.1.0'
+- device_id: SECURITY-VPN-02
+  slot: vpn
+  role: VPN
+  layer: security
+  vendor: openvpn
+  family_key: openvpn
+  member_cpes:
+  - a:openvpn:openvpn
+  cpe_match_strings:
+  - cpe:2.3:a:openvpn:openvpn:*:*:*:*:*:*:*:*
+  ladder_rung: 1
+  ladder_rung_label: VPN
+  selection_kind: ek kontenjan (ikinci aday)
+  vulnerable_true_cve_count: 49
+  total_matched_cve_count: 49
+  vulnerable_with_nvd_primary_cvss: 44
+  notes: 'NVD CPE title örnekleri: OpenVPN | OpenVPN OpenVPN 2.1.28.0 | OpenVPN 2.7.0'
+unfilled_slots:
+- slot: protection
+  layer: field
+  reason: Hiçbir basamakta taban (>=10 vulnerable=true CVE ve >=1 NVD Primary CVSS) geçilemedi
+  rungs:
+  - rung: 1
+    label: koruma rölesi/IED
+    n_candidates: 8
+    n_passing: 0
+    best_candidate: ge:d60_line_distance_relay
+    best_vulnerable_true: 2
+    best_nvd_primary: 2
+  - rung: 2
+    label: substation otomasyon denetleyicisi
+    n_candidates: 4
+    n_passing: 0
+    best_candidate: qeiinc:epaq-9410_substation_gateway
+    best_vulnerable_true: 2
+    best_nvd_primary: 2
+  - rung: 3
+    label: koruma ve kontrol cihazı (genel)
+    n_candidates: 1
+    n_passing: 0
+    best_candidate: hitachienergy:modular_switchgear_monitoring
+    best_vulnerable_true: 4
+    best_nvd_primary: 4
+- slot: ami
+  layer: field
+  reason: Hiçbir basamakta taban (>=10 vulnerable=true CVE ve >=1 NVD Primary CVSS) geçilemedi
+  rungs:
+  - rung: 1
+    label: AMI/DCU/head-end
+    n_candidates: 2
+    n_passing: 0
+    best_candidate: cisco:headend_system_release
+    best_vulnerable_true: 6
+    best_nvd_primary: 6
+  - rung: 2
+    label: enerji yönetim sistemi/DER kontrolörü
+    n_candidates: 5
+    n_passing: 0
+    best_candidate: siemens:simatic_energy_manager_basic
+    best_vulnerable_true: 3
+    best_nvd_primary: 3
+  - rung: 3
+    label: smart grid veri toplama/haberleşme birimi
+    n_candidates: 3
+    n_passing: 0
+    best_candidate: siemens:siprotec_5_communication_module_ethba2el
+    best_vulnerable_true: 2
+    best_nvd_primary: 0
+- slot: rtu
+  layer: field
+  reason: Hiçbir basamakta taban (>=10 vulnerable=true CVE ve >=1 NVD Primary CVSS) geçilemedi
+  rungs:
+  - rung: 1
+    label: RTU
+    n_candidates: 17
+    n_passing: 0
+    best_candidate: inea:me-rtu
+    best_vulnerable_true: 7
+    best_nvd_primary: 7
+  - rung: 2
+    label: saha veri toplayıcı
+    n_candidates: 2
+    n_passing: 0
+    best_candidate: fronius:datalogger_web
+    best_vulnerable_true: 0
+    best_nvd_primary: 0
+  - rung: 3
+    label: uzak terminal/saha kontrolörü
+    n_candidates: 0
+    n_passing: 0
+    best_candidate: null
+    best_vulnerable_true: 0
+    best_nvd_primary: 0
+- slot: io
+  layer: field
+  reason: Hiçbir basamakta taban (>=10 vulnerable=true CVE ve >=1 NVD Primary CVSS) geçilemedi
+  rungs:
+  - rung: 1
+    label: I/O modülü
+    n_candidates: 45
+    n_passing: 0
+    best_candidate: moxa:nport_iaw5000a-i\/o
+    best_vulnerable_true: 8
+    best_nvd_primary: 8
+  - rung: 2
+    label: uzak I/O
+    n_candidates: 0
+    n_passing: 0
+    best_candidate: null
+    best_vulnerable_true: 0
+    best_nvd_primary: 0
+  - rung: 3
+    label: saha ağ geçidi/IO
+    n_candidates: 3
+    n_passing: 0
+    best_candidate: siemens:simatic_pn\/pn_coupler
+    best_vulnerable_true: 4
+    best_nvd_primary: 4
+- slot: sensor
+  layer: field
+  reason: Hiçbir basamakta taban (>=10 vulnerable=true CVE ve >=1 NVD Primary CVSS) geçilemedi
+  rungs:
+  - rung: 1
+    label: sensör/transmitter
+    n_candidates: 3
+    n_passing: 0
+    best_candidate: cisco:aironet_active_sensor
+    best_vulnerable_true: 1
+    best_nvd_primary: 1
+  - rung: 2
+    label: endüstriyel IoT sensör
+    n_candidates: 0
+    n_passing: 0
+    best_candidate: null
+    best_vulnerable_true: 0
+    best_nvd_primary: 0
+  - rung: 3
+    label: kablosuz sensör geçidi
+    n_candidates: 1
+    n_passing: 0
+    best_candidate: siemens:ie\/wsn-pa_link_wirelesshart_gateway
+    best_vulnerable_true: 1
+    best_nvd_primary: 1
+- slot: gateway
+  layer: communication
+  reason: Hiçbir basamakta taban (>=10 vulnerable=true CVE ve >=1 NVD Primary CVSS) geçilemedi
+  rungs:
+  - rung: 1
+    label: gateway
+    n_candidates: 61
+    n_passing: 0
+    best_candidate: cisco:ic3000_industrial_compute_gateway
+    best_vulnerable_true: 8
+    best_nvd_primary: 7

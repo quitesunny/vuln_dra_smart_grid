@@ -1,0 +1,59 @@
+version: 1
+directed: true
+acyclic: true
+edge_semantics: >
+  Kenar u -> v: referans mimaride u'dan v'ye erişilebilirlik (saldırganın u'yu ele geçirdikten sonra v'ye
+  geçebileceği yön). Kenarlar yalnızca bu yönde tanımlıdır; ters yön kopyası YOKTUR.
+edge_rationale: "referans mimaride erişilebilirlik"
+
+entry_points:
+  - SECURITY-VPN-01
+  - SECURITY-VPN-02
+  - SECURITY-FIREWALL-02
+
+targets:
+  - CONTROL-PLC-01
+  - CONTROL-PLC-02
+  - FIELD-METER-01
+
+edges:
+  - {source: SECURITY-VPN-01, target: SECURITY-FIREWALL-01, rationale: "referans mimaride erişilebilirlik"}
+  - {source: SECURITY-VPN-02, target: SECURITY-FIREWALL-01, rationale: "referans mimaride erişilebilirlik"}
+  - {source: SECURITY-FIREWALL-02, target: SECURITY-FIREWALL-01, rationale: "referans mimaride erişilebilirlik"}
+  - {source: SECURITY-FIREWALL-01, target: COMMUNICATION-ROUTER-MODEM-01, rationale: "referans mimaride erişilebilirlik"}
+  - {source: SECURITY-FIREWALL-01, target: COMMUNICATION-ROUTER-MODEM-02, rationale: "referans mimaride erişilebilirlik"}
+  - {source: COMMUNICATION-ROUTER-MODEM-01, target: CONTROL-SCADA-01, rationale: "referans mimaride erişilebilirlik"}
+  - {source: COMMUNICATION-ROUTER-MODEM-01, target: CONTROL-SCADA-02, rationale: "referans mimaride erişilebilirlik"}
+  - {source: COMMUNICATION-ROUTER-MODEM-01, target: CONTROL-HMI-01, rationale: "referans mimaride erişilebilirlik"}
+  - {source: COMMUNICATION-ROUTER-MODEM-02, target: CONTROL-SCADA-01, rationale: "referans mimaride erişilebilirlik"}
+  - {source: COMMUNICATION-ROUTER-MODEM-02, target: CONTROL-SCADA-02, rationale: "referans mimaride erişilebilirlik"}
+  - {source: COMMUNICATION-ROUTER-MODEM-02, target: CONTROL-HMI-02, rationale: "referans mimaride erişilebilirlik"}
+  - {source: CONTROL-SCADA-01, target: CONTROL-HMI-01, rationale: "referans mimaride erişilebilirlik"}
+  - {source: CONTROL-SCADA-02, target: CONTROL-HMI-02, rationale: "referans mimaride erişilebilirlik"}
+  - {source: CONTROL-SCADA-01, target: CONTROL-PLC-01, rationale: "referans mimaride erişilebilirlik"}
+  - {source: CONTROL-SCADA-01, target: CONTROL-PLC-02, rationale: "referans mimaride erişilebilirlik"}
+  - {source: CONTROL-SCADA-02, target: CONTROL-PLC-01, rationale: "referans mimaride erişilebilirlik"}
+  - {source: CONTROL-SCADA-02, target: CONTROL-PLC-02, rationale: "referans mimaride erişilebilirlik"}
+  - {source: CONTROL-HMI-01, target: CONTROL-PLC-01, rationale: "referans mimaride erişilebilirlik"}
+  - {source: CONTROL-HMI-02, target: CONTROL-PLC-02, rationale: "referans mimaride erişilebilirlik"}
+  - {source: CONTROL-PLC-01, target: FIELD-METER-01, rationale: "referans mimaride erişilebilirlik"}
+  - {source: CONTROL-PLC-02, target: FIELD-METER-01, rationale: "referans mimaride erişilebilirlik"}
+
+path_rule:
+  kind: simple_path
+  from: entry_points
+  to: targets
+  max_hops: 6
+  reverse_copies: false
+  note: >
+    Bir hedefe (ör. FIELD-METER-01) giden yol başka bir hedeften (ör. CONTROL-PLC-01) geçebilir; ara düğümün
+    hedef olması yolu kesmez. Her (giriş, hedef, düğüm dizisi) ayrı bir yoldur.
+
+layout_layers:
+  security_entry: [SECURITY-VPN-01, SECURITY-VPN-02, SECURITY-FIREWALL-02]
+  security_core: [SECURITY-FIREWALL-01]
+  communication: [COMMUNICATION-ROUTER-MODEM-01, COMMUNICATION-ROUTER-MODEM-02]
+  control_supervisory: [CONTROL-SCADA-01, CONTROL-SCADA-02]
+  control_hmi: [CONTROL-HMI-01, CONTROL-HMI-02]
+  control_plc: [CONTROL-PLC-01, CONTROL-PLC-02]
+  field: [FIELD-METER-01]
